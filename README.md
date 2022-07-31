@@ -17,7 +17,7 @@ Indicador simples e poderoso e mostrar como caçar ações que acabaram de entra
 
 <br>
 
-**Construído Gerenciamnto de Condominios com Python e Django.**
+**Indicador simples e poderoso Supertrend!**
 
 
 
